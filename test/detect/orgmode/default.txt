@@ -1,0 +1,4 @@
+* hello world
+
+- use stars for *bold*
+- use slashes for /emphasis/
